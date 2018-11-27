@@ -21,6 +21,19 @@ public static ArrayList<Integer> Combine(ArrayList<Integer> a, ArrayList<Integer
 
 }
 
+public static void Output(ArrayList<Integer> a){
 
+	for(int x = 0; x < a.size(); x++){
+
+		if(x != a.size() - 1)
+		System.out.print(a.get(x)+", ");
+
+		else
+		System.out.print(a.get(x));
+
+	}
+
+
+}
 
 }
