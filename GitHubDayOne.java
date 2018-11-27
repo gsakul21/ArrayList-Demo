@@ -33,6 +33,30 @@ public static void Output(ArrayList<Integer> a){
 
 	}
 
+/*public static ArrayList<Integer> removeDuplicates(ArrayList<Integer> a){
+	int a = 0;
+	for(int x = 0; x < a.size(); x++){
+		a = a.get(x);
+
+			int b = 0;
+
+			for(int x = 0; x <a.size(); x++){
+
+				if(a = a.get(x))
+				b++;
+			}
+
+		if(b > 1){
+			for(int x = 0; x < a.size();x++){
+
+
+
+			}
+
+
+		}
+
+*/
 
 }
 
